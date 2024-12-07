@@ -10,6 +10,10 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npm install
    ```
 
+   You will need Android Studio (with SDK, SDK Platform, and Virtual Device), for example: 
+   wget 'https://r2---sn-npoe7ns7.gvt1.com/edgedl/android/studio/ide-zips/2024.2.1.12/android-studio-2024.2.1.12-linux.tar.gz?met=1733556617,&mh=yb&pl=18&rms=ltu,ltu&shardbypass=sd&cm2rm=sn-vjoouujvhh-403l7l,sn-3pmzz7l&rrc=191,80&req_id=1ab1d05f23ef339&redirect_counter=2&cms_redirect=yes&cmsv=e&mip=153.212.164.123&mm=34&mn=sn-npoe7ns7&ms=ltu&mt=1733556270&mv=m&mvi=2&rmhost=r5---sn-npoe7ns7.gvt1.com' -O android-studio-2024.2.1.12-linux.tar.gz && tar -xvf android-studio-2024.2.1.12-linux.tar.gz
+   
+
 2. Start the app
 
    ```bash
